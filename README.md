@@ -1,5 +1,5 @@
 # InsightHub Howde @AIClassroomChallenges Hackathon
-# Audio-to-Audio Chatbot 
+
 ## Overview
 This project implements an audio-to-audio chatbot using FastAPI for the backend, React for the frontend, OpenAI API for natural language processing, and Eleven Labs API for text-to-speech conversion. The chatbot allows users to interact with it through audio messages, and it responds with both text and synthesized audio.
 
